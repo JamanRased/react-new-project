@@ -1,3 +1,5 @@
+# Just git clone 
+# and install npm
 # available setup list
 - npm i react-router-dom@5.0.0
 - npm install react-bootstrap bootstrap@5.1.3
