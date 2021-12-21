@@ -1,5 +1,7 @@
-# available setup list:
+# available setup list
 - npm i react-router-dom@5.0.0
+- npm install react-bootstrap bootstrap@5.1.3
+- npm install firebase
 
 # Getting Started with Create React App
 
